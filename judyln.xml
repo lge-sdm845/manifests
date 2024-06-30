@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="hardware/lge" name="LineageOS/android_hardware_lge" revision="lineage-21" remote="github" />
-  <project path="device/lge/judyln" name="lge-sdm845/android_device_lge_judyln" revision="lineage-21" remote="github" />
-  <project path="device/lge/sdm845-common" name="lge-sdm845/android_device_lge_sdm845-common" revision="lineage-21" remote="github" />
-  <project path="kernel/lge/sdm845" name="lge-sdm845/android_kernel_lge_sdm845" revision="lineage-21" remote="github" />
-  <project path="vendor/lge/judyln" name="lge-sdm845/proprietary_vendor_lge_judyln" revision="lineage-21" remote="github" />
-  <project path="vendor/lge/sdm845-common" name="lge-sdm845/proprietary_vendor_lge_sdm845-common" revision="lineage-21" remote="github" />
+  <project path="hardware/lge" remote="github" name="LineageOS/android_hardware_lge" revision="lineage-21" />
+  <project path="device/lge/judyln-common" remote="github" name="lge-sdm845/android_device_lge_judyln-common" revision="lineage-21" />
+  <project path="device/lge/judyln" remote="github" name="lge-sdm845/android_device_lge_judyln" revision="lineage-21" />
+  <project path="device/lge/sdm845-common" remote="github" name="lge-sdm845/android_device_lge_sdm845-common" revision="lineage-21" />
+  <project path="kernel/lge/sdm845" remote="github" name="lge-sdm845/android_kernel_lge_sdm845" revision="lineage-21" />
+  <project path="vendor/lge/judyln-common" remote="github" name="lge-sdm845/proprietary_vendor_lge_judyln-common" revision="lineage-21" />
+  <project path="vendor/lge/judyln" remote="github" name="lge-sdm845/proprietary_vendor_lge_judyln" revision="lineage-21" />
+  <project path="vendor/lge/sdm845-common" remote="github" name="lge-sdm845/proprietary_vendor_lge_sdm845-common" revision="lineage-21" />
 
   <remove-project path="device/qcom/sepolicy_vndr/legacy-um" />
   <project path="device/qcom/sepolicy_vndr/legacy-um" name="lge-sdm845/android_device_qcom_sepolicy_vndr" revision="lineage-21.0-legacy-um" remote="github" />
 </manifest>
-
