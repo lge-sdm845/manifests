@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="hardware/lge" remote="github" name="lge-sdm845/android_hardware_lge" revision="lineage-21" />
+  <project path="device/lge/judyln-common" remote="github" name="lge-sdm845/android_device_lge_judyln-common" revision="lineage-21" />
+  <project path="device/lge/g710n" remote="github" name="lge-sdm845/android_device_lge_g710n" revision="lineage-21" />
+  <project path="device/lge/sdm845-common" remote="github" name="lge-sdm845/android_device_lge_sdm845-common" revision="lineage-21" />
+  <project path="kernel/lge/sdm845" remote="github" name="lge-sdm845/android_kernel_lge_sdm845" revision="lineage-21" />
+  <project path="vendor/lge/judyln-common" remote="github" name="lge-sdm845/proprietary_vendor_lge_judyln-common" revision="lineage-21" />
+  <project path="vendor/lge/g710n" remote="github" name="lge-sdm845/proprietary_vendor_lge_g710n" revision="lineage-21" />
+  <project path="vendor/lge/sdm845-common" remote="github" name="lge-sdm845/proprietary_vendor_lge_sdm845-common" revision="lineage-21" />
+</manifest>
