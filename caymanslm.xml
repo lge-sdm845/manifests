@@ -2,7 +2,7 @@
 <manifest>
   <project path="hardware/lge" name="lge-sdm845/android_hardware_lge" revision="lineage-21" remote="github" />
   <project path="device/lge/caymanslm" name="lge-sdm845/android_device_lge_caymanslm" revision="lineage-21" remote="github" />
-  <project path="device/lge/sdm845-common" name="lge-sdm845/android_device_lge_sdm845-common" revision="lineage-21" remote="github" />
+  <project path="device/lge/sdm845-common" name="lge-sdm845/android_device_lge_sdm845-common" revision="lineage-21-caymanslm" remote="github" />
   <project path="kernel/lge/sdm845" name="lge-sdm845/android_kernel_lge_sdm845" revision="lineage-21" remote="github" />
   <project path="vendor/lge/caymanslm" name="lge-sdm845/proprietary_vendor_lge_caymanslm" revision="lineage-21" remote="github" />
   <project path="vendor/lge/sdm845-common" name="lge-sdm845/proprietary_vendor_lge_sdm845-common" revision="lineage-21" remote="github" />
